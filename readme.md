@@ -51,7 +51,7 @@ Amazon-Clone/
 ## 🌐 Live Demo
 
 Check out the live version of the Amazon Clone here:
-👉 **[View Live Site](https://amazo-web-clone.netlify.app/)**
+👉 **[View Live Site](https://e-commerce-ui-clone.netlify.app/)**
 
 ## 📦 Technologies Used
 
