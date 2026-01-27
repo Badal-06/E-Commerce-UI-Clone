@@ -1,4 +1,4 @@
-# 🛒 Clone Amazon
+# 🛒 E-Commerce-UI-Clone
 
 A responsive front-end clone of Amazon's e-commerce platform built with **HTML**, **CSS**, and **Font Awesome icons**.
 
